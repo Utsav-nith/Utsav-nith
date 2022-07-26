@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204224108/Take-Advantages-of-Git-and-GitHub-to-Stay-Motivated-Consistent-While-Coding.png)]
+![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204224108/Take-Advantages-of-Git-and-GitHub-to-Stay-Motivated-Consistent-While-Coding.png)
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 <h3 align="center">I'm currently pursuing my bachelors from NIT Hampirpur in Electrical Engineering.</h3>
 <img align ="right" alt="Coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
